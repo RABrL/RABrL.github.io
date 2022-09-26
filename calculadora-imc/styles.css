@@ -82,6 +82,7 @@ body{
     border: transparent;
     margin-left: 15px;
     font-weight: bolder;
+    overflow-wrap: break-word;
 }
 .grafico-imc{
     background-image: url(./images/IMC-2-e1580824358676.png);
