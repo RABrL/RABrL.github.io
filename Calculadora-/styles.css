@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+    padding: 5rem;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 100% ;
+    grid-template-rows: 10rem 20rem;
+    max-width: 40rem;
+    min-width: 10rem;
+    margin: 10rem auto;
+    border: 1px black solid;
+}
+
+.display {
+    height: 100%;
+    font-size: 1.6rem;
+    display: flex;
+    align-items: end;
+    justify-content: flex-end;
+    padding: .5rem 1rem;
+}
+
+.teclado {
+    margin: 1rem auto 0;
+    display: flex;
+    width: 100%;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.teclado div {
+    display: flex;
+    height: 100%;
+}
+
+.teclado .fila1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+}
+.btn button {
+    width: 100%;
+    height: 100%;
+    border: transparent;
+    background-color: rgb(226, 219, 219); 
+    font-size: 1.2rem;
+}
+.btn .operador {
+    color: rgb(218, 82, 28);
+    font-weight: bold;
+}
+.btn .igual{
+    background-color: rgb(218, 82, 28);
+    color: white;
+}
+.btn .igual:hover {
+    background-color: rgb(218, 113, 72)
+}
+
+.btn button:active {
+    background-color: #e9e9e9;
+    box-shadow: 0 0 2px black;
+}
+.btn button:hover {
+    background-color: #e9e9e9;
+}
