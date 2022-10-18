@@ -1,3 +1,6 @@
 [submodule "Manipulacion-del-DOM"]
 	path = Manipulacion-del-DOM
 	url = https://github.com/RABrL/Manipulacion-del-DOM
+[submodule "Puzzle"]
+	path = Puzzle
+	url = https://github.com/RABrL/Puzzle
