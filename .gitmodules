@@ -4,3 +4,6 @@
 [submodule "Manipulacion-del-DOM"]
 	path = Manipulacion-del-DOM
 	url = https://github.com/RABrL/Manipulacion-del-DOM
+[submodule "Carrito-de-compras"]
+	path = Carrito-de-compras
+	url = https://github.com/RABrL/Carrito-de-Compras
