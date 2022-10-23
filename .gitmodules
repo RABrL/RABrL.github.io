@@ -7,3 +7,6 @@
 [submodule "Carrito-de-compras"]
 	path = Carrito-de-compras
 	url = https://github.com/RABrL/Carrito-de-Compras
+[submodule "Envio-de-emails"]
+	path = Envio-de-emails
+	url = https://github.com/RABrL/Envio-de-emails
