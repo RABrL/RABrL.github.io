@@ -10,3 +10,6 @@
 [submodule "Envio-de-emails"]
 	path = Envio-de-emails
 	url = https://github.com/RABrL/Envio-de-emails
+[submodule "Buscador-de-autos"]
+	path = Buscador-de-autos
+	url = https://github.com/RABrL/Buscador-de-autos
