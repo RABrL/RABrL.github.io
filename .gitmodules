@@ -16,3 +16,6 @@
 [submodule "To-do-list"]
 	path = To-do-list
 	url = https://github.com/RABrL/To-do-List
+[submodule "cronometro"]
+	path = cronometro
+	url = https://github.com/RABrL/cronometro
