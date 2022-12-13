@@ -16,6 +16,12 @@
 [submodule "To-do-list"]
 	path = To-do-list
 	url = https://github.com/RABrL/To-do-List
+<<<<<<< HEAD
 [submodule "Somos-Cat"]
 	path = Somos-Cat
 	url = https://github.com/RABrL/Somos-Cat
+=======
+[submodule "cronometro"]
+	path = cronometro
+	url = https://github.com/RABrL/cronometro
+>>>>>>> refs/remotes/origin/main
