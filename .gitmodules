@@ -16,3 +16,6 @@
 [submodule "To-do-list"]
 	path = To-do-list
 	url = https://github.com/RABrL/To-do-List
+[submodule "Somos-Cat"]
+	path = Somos-Cat
+	url = https://github.com/RABrL/Somos-Cat
