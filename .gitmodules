@@ -22,6 +22,3 @@
 [submodule "Somos-Cat"]
 	path = Somos-Cat
 	url = https://github.com/RABrL/Somos-Cat
-[submodule "practica_crud"]
-	path = practica_crud
-	url = https://github.com/RABrL/practica_crud
