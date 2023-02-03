@@ -22,3 +22,6 @@
 [submodule "Somos-Cat"]
 	path = Somos-Cat
 	url = https://github.com/RABrL/Somos-Cat
+[submodule "Dashboard"]
+	path = Dashboard
+	url = https://github.com/RABrL/Dashboard
